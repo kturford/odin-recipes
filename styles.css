@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/jonas-denil-MQOhQhF8WN0-unsplash.jpg");
+    /* background-image: url("../images/nathan-anderson-fcZIyU-nbFE-unsplash.jpg"); */
+    background-size: cover;
+  }
+
+.food-pic img {
+    border-radius: 8px;
+    width: auto;
+    height: 600px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+#midsection {
+    border-radius: 8px;
+    background-color: rgba(14, 41, 227, 75%);
+    color: white;
+}
+
+.page-list {
+    font-size: 40px;
+}
